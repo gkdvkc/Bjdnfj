@@ -15,7 +15,7 @@ import re
 from collections import defaultdict, deque
 
 # ========== تنظیمات ==========
-BOT_TOKEN = "8793482183:AAEGUa7ZEURP26N34DzKvrudnndC3q7apBk"
+BOT_TOKEN = "8810741889:AAEjL5vlgL0mxZeAmRGWtDuU7kKFCKwJQ2M"
 ADMIN_IDS = [8680457924]  # ادمین‌های اصلی بات
 bot = telebot.TeleBot(BOT_TOKEN)
 
